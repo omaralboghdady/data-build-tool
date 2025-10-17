@@ -1,2 +1,1 @@
-# data-build-tool
-this repository is a practical example of using DBT
+# my_dbt_duckdb_project
